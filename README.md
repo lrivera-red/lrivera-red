@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lrivera-red
 - :mortar_board: I'm studying Ciência da Computação(Computer Science) at UFABC (Univesidade Federal do ABC)
-- 👀 I’m interested in Python both for back-end and Data Science
-- 🌱 I’m currently learning Python and basic front-end 
+- 👀 I’m interested in back-end and Data Science
+- 🌱 I’m currently learning Java and API concepts. 
 
 
 <!---
